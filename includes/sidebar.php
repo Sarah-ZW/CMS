@@ -6,7 +6,7 @@
         echo $search = $_POST['search'];
     }
 
-//testing
+//testing 123 in the sidebar, please go through
     ?>
 
 
