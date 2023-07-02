@@ -2,6 +2,8 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php"?>
 
+<!--If you see me then it's working correctly -->
+
 
 
     <!-- Page Content -->
